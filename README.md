@@ -3,6 +3,8 @@ Mautic Introduction
 <img src="https://www.mautic.org/media/images/github_readme.png" />
 <br /><br />
 ## Getting Started
+
+What
 <p>
 	This is a simple 3 step installation process. You'll want to make sure you already have <a href="http://getcomposer.org">Composer</a> available on your computer as this is a development release and you'll need to use Composer to download the vendor packages.
 </p>
