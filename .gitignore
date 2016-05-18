@@ -42,3 +42,4 @@ media/css/libraries2.css
 media/css/app2.css
 app/bundles/CoreBundle/Assets/css/app2.css
 app/bundles/CoreBundle/Assets/css/libraries/libraries.css
+app/bundles/CoreBundle/Assets/css/app.css
