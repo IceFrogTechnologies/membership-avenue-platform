@@ -15,7 +15,12 @@
     <link rel="icon" sizes="192x192" href="<?php echo $view['assets']->getUrl('media/images/favicon.ico') ?>">
     <link rel="apple-touch-icon" href="<?php echo $view['assets']->getUrl('media/images/apple-touch-icon.png') ?>" />
 
-    <?php echo $view['assets']->outputSystemStylesheets(); ?>
+    <?php
+    echo $view['assets']->outputSystemStylesheets();
+    ?>
+
+    <link rel="stylesheet" href="/media/css/libraries2.css" />
+    <link rel="stylesheet" href="/media/css/app2.css" />
 
     <?php echo $view->render('MauticCoreBundle:Default:script.html.php'); ?>
     <?php $view['assets']->outputHeadDeclarations(); ?>
